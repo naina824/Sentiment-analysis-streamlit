@@ -1,0 +1,23 @@
+# Ignore dataset files
+dataset/
+*.csv
+*.zip
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment folders
+env/
+venv/
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
